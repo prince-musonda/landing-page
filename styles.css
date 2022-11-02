@@ -44,8 +44,8 @@ header{
 }
 
 .hero-image{
-    width: 1150px;
-    height: 250px;
+    max-width: 1000px;
+    height:auto;
     color: white;
     text-align: center;
     background-color: rgba(189, 175, 175, 0.288);
